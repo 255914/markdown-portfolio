@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. India
+2. US
+3. Canada
+
+- India
+- US
+- Canada
